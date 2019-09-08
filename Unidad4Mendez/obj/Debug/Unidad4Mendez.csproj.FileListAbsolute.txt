@@ -1,0 +1,7 @@
+C:\Users\PC MASTER\source\repos\Unidad4Mendez\Unidad4Mendez\bin\Debug\Unidad4Mendez.exe.config
+C:\Users\PC MASTER\source\repos\Unidad4Mendez\Unidad4Mendez\bin\Debug\Unidad4Mendez.exe
+C:\Users\PC MASTER\source\repos\Unidad4Mendez\Unidad4Mendez\bin\Debug\Unidad4Mendez.pdb
+C:\Users\PC MASTER\source\repos\Unidad4Mendez\Unidad4Mendez\obj\Debug\Unidad4Mendez.csprojAssemblyReference.cache
+C:\Users\PC MASTER\source\repos\Unidad4Mendez\Unidad4Mendez\obj\Debug\Unidad4Mendez.csproj.CoreCompileInputs.cache
+C:\Users\PC MASTER\source\repos\Unidad4Mendez\Unidad4Mendez\obj\Debug\Unidad4Mendez.exe
+C:\Users\PC MASTER\source\repos\Unidad4Mendez\Unidad4Mendez\obj\Debug\Unidad4Mendez.pdb
